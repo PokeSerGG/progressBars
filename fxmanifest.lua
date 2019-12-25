@@ -15,3 +15,4 @@ files {
 }
 
 export "startUI"
+export "closeUI"
